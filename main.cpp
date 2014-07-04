@@ -4,5 +4,3 @@ int main()
 {
 
 }
-
-no can  no bb
